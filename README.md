@@ -1,10 +1,10 @@
 # Hi, I'm Vaishnavi 👋
 
-### Data Analyst | Excel | Power BI | SQL
+### Data Analyst | Excel • Power BI • SQL | Business & Data Analytics
 
-I’m a Data Analyst focused on transforming raw data into meaningful insights that support business decision-making.
+I’m a Data Analyst focused on turning raw data into actionable business insights.
 
-I work with Excel, Power BI, SQL, and data visualization to clean, analyze, and communicate data effectively.
+I use Excel, Power BI, and SQL to clean, analyze, visualize, and communicate data effectively. I enjoy solving business problems through structured analysis and building dashboards that make data easier to understand and act on.
 
 ---
 
@@ -27,9 +27,9 @@ I work with Excel, Power BI, SQL, and data visualization to clean, analyze, and 
 
 ### 🚴 Blinkit Delivery Performance & Operational Delay Analysis
 
-Analyzed 240 delivery orders to identify peak-hour operational bottlenecks and understand the factors contributing to delivery delays.
+Analyzed 240 delivery orders to identify operational bottlenecks affecting delivery performance. The analysis found that peak-hour rider assignment and waiting times were important contributors to delays, particularly between 19:00–22:00.
 
-**Tools:** Excel, PivotTables, Charts, Slicers
+**Tools:** Microsoft Excel, PivotTables, Charts, Slicers
 
 🔗 [View Project](https://github.com/Vaishnavi-Dahilkar73/blinkit-delivery-analysis)
 
