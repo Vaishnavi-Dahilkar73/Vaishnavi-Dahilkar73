@@ -46,5 +46,5 @@ Analyzed 240 delivery orders to identify operational bottlenecks affecting deliv
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: https://www.linkedin.com/in/vaishnavi-dahilkar-b7822729a/
 - GitHub: [Vaishnavi-Dahilkar73](https://github.com/Vaishnavi-Dahilkar73)
