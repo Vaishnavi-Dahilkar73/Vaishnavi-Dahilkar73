@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Vaishnavi 👋
 
-<!--
-**Vaishnavi-Dahilkar73/Vaishnavi-Dahilkar73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Excel | Power BI | SQL
 
-Here are some ideas to get you started:
+I’m a Data Analyst focused on transforming raw data into meaningful insights that support business decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with Excel, Power BI, SQL, and data visualization to clean, analyze, and communicate data effectively.
+
+---
+
+## 🛠️ Skills
+
+- Microsoft Excel
+- Power BI
+- SQL
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- PivotTables
+- Power Query
+- Dashboard Development
+- Business Analysis
+
+---
+
+## 📊 Featured Projects
+
+### 🚴 Blinkit Delivery Performance & Operational Delay Analysis
+
+Analyzed 240 delivery orders to identify peak-hour operational bottlenecks and understand the factors contributing to delivery delays.
+
+**Tools:** Excel, PivotTables, Charts, Slicers
+
+🔗 [View Project](https://github.com/Vaishnavi-Dahilkar73/blinkit-delivery-analysis)
+
+---
+
+## 🎯 Currently Focused On
+
+- Strengthening Data Analytics skills
+- Building practical business-focused projects
+- Improving SQL and Power BI capabilities
+- Developing data-driven problem-solving skills
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: Add your LinkedIn profile here
+- GitHub: [Vaishnavi-Dahilkar73](https://github.com/Vaishnavi-Dahilkar73)
